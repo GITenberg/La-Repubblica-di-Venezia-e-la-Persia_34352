@@ -1,0 +1,28 @@
+_repo: La-Repubblica-di-Venezia-e-la-Persia_34352
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34352-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Berchet, Guglielmo
+    birthdate: 1833
+    deathdate: 1913
+    gutenberg_agent_id: '36970'
+    url: http://www.gutenberg.org/2009/agents/36970
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2010-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34352'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- Foreign relations -- Iran'
+- !lcc 'DS'
+- !lcsh 'Iran -- Foreign relations -- Italy -- Venice'
+title: La Repubblica di Venezia e la Persia
+url: http://www.gutenberg.org/ebooks/34352

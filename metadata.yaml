@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36970'
     url: http://www.gutenberg.org/2009/agents/36970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34352#La-Repubblica-di-Venezia-e-la-Persia
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2010-11-17'
 gutenberg_type: Text
